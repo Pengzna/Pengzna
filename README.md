@@ -7,14 +7,11 @@
 
 ### Programming
 
-<span > 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius: 20px; max-height: 23px"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="border-radius: 20px; max-height: 23px" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 20px; max-height: 23px" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" style="border-radius: 20px; max-height: 23px" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="border-radius: 20px; max-height: 23px"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="border-radius: 20px; max-height: 23px" /> </span>
-
+![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-087CFA?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-#fcea6a?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
 ### Contribution
 
