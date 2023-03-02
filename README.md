@@ -3,9 +3,11 @@
 <span align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Pengzna" /> <img src="https://img.shields.io/github/followers/Pengzna?style=social" /> </span>
 
 - 🔭 I’m currently studying software engineering at Nanjing University
+<!-- - 🌱 I’m currently learning distribution system and database -->
 - 📫 How to reach me: pengzna@foxmail.com
+- 😄 Blog: https://pengzna.top
 
-### Programming
+### Languages
 
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-087CFA?style=flat&logo=go&logoColor=white)
