@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-087CFA?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-#fcea6a?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-fcea6a?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
 ### Contribution
