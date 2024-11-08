@@ -2,8 +2,8 @@
 
 <span align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Pengzna" /> <img src="https://img.shields.io/github/followers/Pengzna?style=social" /> </span>
 
-- 🔭 I’m currently studying software engineering at Nanjing University
-<!-- - 🌱 I’m currently learning distribution system and database -->
+- 🔭 I’m Peng Junzhi, a MSE student in Tsinghua University
+<!-- - 🌱 I’m currently interested in distribution system and database -->
 - 📫 How to reach me: pengzna@foxmail.com
 - 😄 Blog: https://pengzna.top
 
