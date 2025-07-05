@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- I’m Peng Junzhi, a MSE student in Tsinghua University. I’m currently interested in distribution system and performance optimization
+- I’m Peng Junzhi, a MSE student in Tsinghua University.
+- I’m currently interested in distribution system and performance optimization
 - How to reach me: pengzna@foxmail.com
 - Blog: https://pengzna.top
 
+<!--
 ### Languages
 
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
@@ -13,9 +15,11 @@
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
 ### Contribution
-
+-->
 <!-- [![Pengzna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pengzna&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pengzna&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Pengzna's github stats" /></a>
+-->
 
 <!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Pengzna&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div> -->
 
