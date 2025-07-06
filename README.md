@@ -2,7 +2,7 @@
 
 - I’m Peng Junzhi, a MSE student in Tsinghua University.
 - I’m currently interested in distribution system and performance optimization
-- How to reach me: pengzna@foxmail.com
+- How to reach me: pengjunzhi@apache.org
 - Blog: https://pengzna.top
 
 <!--
