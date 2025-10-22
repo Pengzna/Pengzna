@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I’m Peng Junzhi, a MSE student in Tsinghua University.
-- I’m currently interested in distribution system and performance optimization
+- Master's Student at Tsinghua University, with a Bachelor's degree from Nanjing University.
+- I’m currently interested in distribution system and performance optimization.
 - How to reach me: pengjunzhi@apache.org
 - Blog: https://pengzna.top
 
