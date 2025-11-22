@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Master's Student at Tsinghua University, with a Bachelor's degree from Nanjing University.
-- I’m currently interested in distribution system and performance optimization.
+- I’m currently interested in distributed (storage) system and performance optimization.
 - How to reach me: pengjunzhi@apache.org
 - Blog: https://pengzna.top
 
